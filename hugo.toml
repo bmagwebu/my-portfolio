@@ -2,6 +2,9 @@ baseURL  = "https://bmagwebu.github.io/my-portfolio/"  # ← EDIT ME
 title    = "Bongani Magwebu – Portfolio"                                  # ← EDIT ME
 languageCode = "en"
 
+[pagination]
+  pagerSize = 3
+
 [outputs]
   page    = ["HTML"]
   home    = ["HTML", "RSS", "JSON"]
