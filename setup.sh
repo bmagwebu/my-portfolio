@@ -84,7 +84,7 @@ ok "npm dependencies installed"
 
 # ── Download Hugo modules ─────────────────────────────────────────
 info "Downloading Hugo theme module (Adritian)..."
-GONOSUMCHECK="*" GONOSUMDB="*" GOFLAGS="-mod=mod" hugo mod download
+GONOSUMCHECK="*" GONOSUMDB="*" GOFLAGS="-mod=mod" go mod download
 ok "Hugo modules downloaded"
 
 # ── Done ──────────────────────────────────────────────────────────

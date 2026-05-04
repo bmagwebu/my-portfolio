@@ -71,15 +71,6 @@ jobs:
             ${{ runner.os }}-hugo-${{ hashFiles('go.mod') }}-
             ${{ runner.os }}-hugo-
 
-      # ── Download Hugo modules (generates/updates go.sum) ──
-      - name: Download Hugo modules
-        env:
-          HUGO_CACHEDIR: /tmp/hugo_cache
-          GONOSUMCHECK: "*"
-          GONOSUMDB: "*"
-          GOFLAGS: "-mod=mod"
-        run: hugo mod download
-
       # ── Configure GitHub Pages ──
       - name: Setup GitHub Pages
         id: pages
