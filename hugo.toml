@@ -1,9 +1,6 @@
-baseURL  = "https://YOUR_GITHUB_USERNAME.github.io/my-portfolio/"  # ← EDIT ME
-title    = "Your Name – Portfolio"                                  # ← EDIT ME
+baseURL  = "https://bmagwebu.github.io/my-portfolio/"  # ← EDIT ME
+title    = "Bongani Magwebu – Portfolio"                                  # ← EDIT ME
 languageCode = "en"
-
-[pagination]
-  pagerSize = 3
 
 [outputs]
   page    = ["HTML"]
