@@ -1,5 +1,5 @@
 baseURL  = "https://bmagwebu.github.io/my-portfolio/"  # ← EDIT ME
-title    = "Bongani Magwebu – Portfolio"                                  # ← EDIT ME
+title    = "Bongani Magwebu– Portfolio"                                  # ← EDIT ME
 languageCode = "en"
 
 [pagination]
