@@ -1,0 +1,13 @@
+{
+  "framework": "hugo",
+  "buildCommand": "npm install && hugo --minify --gc",
+  "outputDirectory": "public",
+  "devCommand": "hugo server -D --port $PORT",
+  "env": {
+    "HUGO_VERSION": "0.136.0",
+    "HUGO_ENV": "production",
+    "GONOSUMCHECK": "*",
+    "GONOSUMDB": "*",
+    "GOFLAGS": "-mod=mod"
+  }
+}
