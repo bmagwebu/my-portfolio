@@ -48,6 +48,13 @@ jobs:
       - name: Install npm dependencies
         run: npm install
 
+      - name: Download Hugo modules
+        env:
+          HUGO_CACHEDIR: /tmp/hugo_cache
+          GONOSUMDB: "*"
+          GOFLAGS: "-mod=mod"
+        run: hugo mod tidy
+
       - name: Cache Hugo modules
         uses: actions/cache@v4
         with:
