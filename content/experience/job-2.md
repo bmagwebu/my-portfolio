@@ -1,23 +1,24 @@
 ---
-title: "Full Stack Developer"
-date: 2019-01-01
+title: "Training Specialist: SAP FI/MM"
+date: 2008-05-01
 draft: false
-jobTitle: "Full Stack Developer"
-company: "Digital Agency Co."
-location: "Cape Town, South Africa"
-duration: "2019-2022"
+jobTitle: "Training Specialist: SAP FI/MM Trainer"
+company: "SABC"
+location: "South Africa"
+duration: "May 2008 – Jun 2010"
 ---
 
-## Building Digital Products for Clients
+## SAP Training at SABC
 
-At Digital Agency Co., I worked across the full stack delivering web and mobile solutions for 20+ clients ranging from startups to JSE-listed companies.
+As a Training Specialist at the South African Broadcasting Corporation (SABC), I delivered SAP Financial Accounting (FI) and Materials Management (MM) training to end users and key users across the organisation.
 
-### Key Projects
+### Key Responsibilities
 
-- Built a multi-tenant e-commerce platform handling R5M+ in monthly transactions
-- Developed a real-time logistics tracking dashboard using WebSockets and mapping APIs
-- Delivered a patient management system for a private healthcare group (5 clinics)
+- Designed and delivered SAP FI and MM training programmes for end users and super users
+- Developed training materials, user guides, and e-learning content aligned to SABC's SAP implementation
+- Conducted training needs analyses and coordinated training schedules across business units
+- Supported users post-go-live with hands-on assistance and refresher training
 
 ### Technologies Used
 
-PHP (Laravel) · Vue.js · MySQL · Elasticsearch · AWS · Stripe API · Google Maps API
+SAP FI · SAP MM · SAP ECC · SAP Tutor · GUIXT Scripting

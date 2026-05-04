@@ -1,10 +1,25 @@
 education:
-  - degree: "Bachelor of Science in Computer Science"
-    university: "University of Technology"
-    years: "2015–2019"
-    description: "Majored in Software Engineering with a minor in Data Science. Graduated with Distinction."
+  - degree: "TOGAF® 9 Part 1 (In Progress)"
+    university: "Udemy"
+    years: "Current"
+    description: "Enterprise Architecture framework covering business, information, data, application, technology, and security architecture best practices."
 
-  - degree: "High School Diploma"
-    university: "City High School"
-    years: "2012–2015"
-    description: "Mathematics, Science, Computer Studies."
+  - degree: "Solution Consultant: Financial Accounting with MySAP ERP 2005"
+    university: "SAP Africa"
+    years: "2005"
+    description: "Professional SAP certification in Financial Accounting configuration and implementation on the MySAP ERP 2005 platform."
+
+  - degree: "Development Consultant: SAP NetWeaver 7.0 Exchange Infrastructure"
+    university: "SAP Africa"
+    years: "2007"
+    description: "SAP certified development consultant specialising in NetWeaver 7.0 Exchange Infrastructure (XI/PI) integration middleware."
+
+  - degree: "BSc IT Business Computing"
+    university: "University of Cape Town"
+    years: "2003"
+    description: "Undergraduate degree in Information Technology with a focus on business computing systems."
+
+  - degree: "Matric"
+    university: "Sutterheim High School"
+    years: "1999"
+    description: ""

@@ -1,73 +1,101 @@
 ---
 title: "Technical Skills"
-description: "A breakdown of my technical expertise across languages, frameworks, and tools."
+description: "A breakdown of my expertise across solution architecture, SAP, development, and enterprise governance."
 ---
 
-As a full-stack developer I've built expertise across the entire web stack — from crafting
-pixel-perfect UIs to architecting scalable backend systems and cloud infrastructure.
+As a Solution Architect with 22+ years in enterprise IT, I have built deep expertise across solution design, SAP integration, biometric security, POS delivery, and technical leadership — delivering complex projects for clients in retail, banking, government, and mining sectors across Africa.
 
-## Programming Languages
+## Solution & Enterprise Architecture
 
-### JavaScript / TypeScript
+### Solution Architecture
 90%
 
-8+ years · React, Node.js, modern ES6+, TypeScript
+22+ years · End-to-end solution design, blueprint documentation, TOGAF® 9 (In Progress)
 
-### PHP
-85%
-
-7+ years · Laravel, Symfony, REST APIs
-
-### Python
-75%
-
-4+ years · Django, FastAPI, scripting & automation
-
-### Go
-65%
-
-2+ years · CLI tools, microservices
-
-## Frameworks & Technologies
-
-### React / React Native
-90%
-
-7+ years · Web & cross-platform mobile apps
-
-### Node.js
+### Enterprise Integration
 88%
 
-6+ years · Express, NestJS, REST & GraphQL APIs
+SAP NetWeaver XI/PI, REST API, Java Connector (JCo), JSON/XML
 
-### Laravel (PHP)
+### System Design & Blueprinting
 85%
 
-7+ years · Full-stack web applications
+Requirements workshops, solution blueprints, technical specification development
 
-### Vue.js
+## SAP Technologies
+
+### SAP SD / FI / MM / Retail
+85%
+
+15+ years · POS integration, finance, materials management, retail configurations
+
+### SAP NetWeaver XI / PI
 80%
 
-5+ years · SPAs, dashboards
+Integration middleware, message mappings, IDOCs, BAPIs, RFC
 
-## Cloud & DevOps
+### GUIXT Scripting / SAP Tutor
+75%
 
-### AWS
-80%
+UI scripting, SAP training content development
 
-5+ years · EC2, S3, Lambda, CloudFront, RDS, SES
-
-### Docker / Kubernetes
-78%
-
-4+ years · Containerisation, orchestration
-
-### CI/CD
+### SAP Biolock / Biometric Solutions
 90%
 
-6+ years · GitHub Actions, GitLab CI, CircleCI
+15+ years · Configuration, Secugen server, user enrolment, biometric authentication
 
-### Linux / Bash
+## Development
+
+### Java / Java Connector (JCo)
 85%
 
-8+ years · Server management, automation scripts
+SAP-Java integration, POS backend development
+
+### JavaScript / HTML
+75%
+
+Web frontend, scripting, UI development
+
+### C#
+70%
+
+Enterprise application development, Windows solutions
+
+### MySQL
+75%
+
+Database design, queries, reporting
+
+## Governance & Leadership
+
+### Agile / Scrum
+90%
+
+Scrum Master, Daily SCRUMs, Sprint Planning, UAT, Go-Live management
+
+### IT Service Management (ITSM)
+85%
+
+Change Request management, incident handling, stakeholder governance
+
+### Risk Management & Compliance
+80%
+
+Technical risk identification, security architecture, regulatory alignment
+
+### Project & Stakeholder Management
+90%
+
+C-level engagement, delivery planning, cross-functional team leadership
+
+## Infrastructure & Tools
+
+### Linux / AIX
+75%
+
+Server configuration, Biolock/Secugen server setup
+
+### REST API / JSON / XML
+80%
+
+System integration, data exchange, API design

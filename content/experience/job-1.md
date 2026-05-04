@@ -1,23 +1,24 @@
 ---
-title: "Junior Developer"
-date: 2016-01-01
+title: "Solution Consultant: SAP NetWeaver XI Developer"
+date: 2007-04-01
 draft: false
-jobTitle: "Junior Developer"
-company: "StartupHub"
-location: "Johannesburg, South Africa"
-duration: "2016-2019"
+jobTitle: "Solution Consultant: SAP NetWeaver XI Developer"
+company: "IBM"
+location: "South Africa"
+duration: "Apr 2007 – Apr 2008"
 ---
 
-## The Beginning of My Journey
+## SAP NetWeaver XI Integration at IBM
 
-As a Junior Developer at StartupHub, I built my foundation in web development. I contributed to multiple early-stage startup products as part of a small, agile team.
+As a Solution Consultant at IBM, I specialised in SAP NetWeaver Exchange Infrastructure (XI) development, designing and implementing enterprise integration solutions for large-scale clients.
 
-### What I Learned
+### Key Responsibilities
 
-- Shipping production code under tight deadlines in a lean team environment
-- Full product lifecycle from wireframes to deployment and monitoring
-- Client communication and translating business requirements into technical solutions
+- Developed integration scenarios using SAP NetWeaver 7.0 XI (PI) for enterprise clients
+- Designed message mappings, interface determinations, and routing rules
+- Collaborated with functional consultants and business analysts to translate requirements into integration solutions
+- Supported project delivery aligned with IBM's delivery standards and quality frameworks
 
 ### Technologies Used
 
-JavaScript · HTML/CSS · PHP · WordPress · MySQL · Git · DigitalOcean
+SAP NetWeaver XI / PI · ABAP · Java · XML · IDOC · RFC · BAPI · SAP R/3

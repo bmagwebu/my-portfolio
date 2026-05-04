@@ -51,8 +51,8 @@ languageCode = "en"
     target = "assets/css/bootstrap-print.css"
 
 [params]
-  title       = "Your Name – Portfolio"                   # ← EDIT ME
-  description = "Personal portfolio of Your Name"         # ← EDIT ME
+  title       = "Bongani Magwebu – Portfolio"                   # ← EDIT ME
+  description = "Personal portfolio of Bongani Magwebu"         # ← EDIT ME
   images      = ["/images/avatar.png"]
 
   sections = [
@@ -68,7 +68,7 @@ languageCode = "en"
   homepageExperienceCount = 6
 
   [params.seo]
-    siteName        = "Your Name"                         # ← EDIT ME
+    siteName        = "Bongani Magwebu"                         # ← EDIT ME
     siteDescription = "Personal portfolio and CV"
 
   [params.analytics]
