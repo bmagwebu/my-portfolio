@@ -1,0 +1,16 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio built with Hugo and Adritian theme",
+  "scripts": {
+    "start": "hugo server -D",
+    "build": "hugo --minify",
+    "clean": "rm -rf public resources"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {
+    "@zetxek/adritian-theme-helper": "^1.0.0"
+  }
+}

@@ -1,0 +1,121 @@
+# ╔══════════════════════════════════════════════════════╗
+# ║  HOMEPAGE CONTENT  —  content/home/homepage.yml     ║
+# ║  This single file controls your entire home page.   ║
+# ║  Edit anything marked  ← EDIT ME                    ║
+# ╚══════════════════════════════════════════════════════╝
+
+showcase:
+  enable: true
+  title: "Hi, I'm Your Name 👋"              # ← EDIT ME
+  subtitle: "Full Stack Developer"            # ← EDIT ME
+  description: >
+    I build clean, performant web applications and love
+    turning complex problems into elegant solutions.
+    Based in South Africa, working globally.   # ← EDIT ME
+  image:
+    x: "images/avatar.png"
+    _2x: "images/avatar.png"
+  imageMobile:
+    x: "images/avatar.png"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Get In Touch"
+    URL: "#contact"
+  socialLinks:
+    - icon: "icon-linkedin-fill"
+      URL: "https://linkedin.com/in/yourusername"   # ← EDIT ME
+    - icon: "icon-github-line"
+      URL: "https://github.com/yourusername"        # ← EDIT ME
+    - icon: "icon-twitter-fill"
+      URL: "https://twitter.com/yourusername"       # ← EDIT ME
+
+about:
+  enable: true
+  title: "About Me"
+  content: >
+    I'm a passionate software developer with 8+ years of experience building
+    scalable web applications and digital products. I thrive at the intersection
+    of design and technology, turning complex problems into elegant solutions.
+
+
+    When I'm not coding you'll find me exploring new technologies, contributing
+    to open-source, or enjoying the South African outdoors.   # ← EDIT ME
+  button:
+    icon: "icon-smile-fill"
+    btnText: "My Skills"
+    URL: "/skills"
+  image:
+    x: "images/avatar.png"
+    _2x: "images/avatar.png"
+
+education:
+  enable: true
+  title: "Formal Education"
+  items:
+    - university: "University of Technology"          # ← EDIT ME
+      year: "2012-2016"
+      degree: "Bachelor of Science, Computer Science"
+    - university: "City High School"                  # ← EDIT ME
+      year: "2009-2012"
+      degree: "High School Diploma – Maths, Science, IT"
+
+experience:
+  enable: true
+  title: "My Job Experience"
+  description: >
+    8+ years building products across startups, digital agencies and enterprise.
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "LinkedIn Profile"
+    URL: "https://linkedin.com/in/yourusername"   # ← EDIT ME
+  button2:
+    icon: "icon-arrow-right"
+    btnText: "All Experience"
+    URL: "/experience"
+
+client_and_work:
+  title: "A Selection of My Work"
+  enable: true
+
+testimonial:
+  enable: true
+  title: "What They Say About Me"
+  items:
+    - name: "Jane Doe"                              # ← EDIT ME
+      position: "CTO, TechStartup Africa"
+      content: >
+        Working with this developer has been outstanding. They consistently deliver
+        clean, well-tested code ahead of schedule and are a pleasure to collaborate with.
+      image:
+        x: "images/testimonials/testimonial1.png"
+        _2x: "images/testimonials/testimonial1.png"
+
+    - name: "John Smith"                            # ← EDIT ME
+      position: "Product Manager, Corp Inc."
+      content: >
+        They took ownership from day one, proactively identified risks, and
+        communicated clearly throughout. The final product exceeded our expectations.
+      image:
+        x: "images/testimonials/testimonial2.png"
+        _2x: "images/testimonials/testimonial2.png"
+
+contact:
+  enable: true
+  title: "Reach Out"
+  form:
+    action: "https://formspree.io/f/YOUR_FORM_ID"   # ← EDIT ME  (free at formspree.io)
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type your message here."
+  phone:
+    title: "My Phone"
+    number: "+27 000 000 000"                        # ← EDIT ME
+  email:
+    title: "My Email"
+    email: '<a href="mailto:hello@yourname.dev">hello@yourname.dev</a>'  # ← EDIT ME
+  address:
+    title: "My Location"
+    address: "🇿🇦 Johannesburg, South Africa"        # ← EDIT ME
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"

@@ -1,0 +1,10 @@
+education:
+  - degree: "Bachelor of Science in Computer Science"
+    university: "University of Technology"
+    years: "2015–2019"
+    description: "Majored in Software Engineering with a minor in Data Science. Graduated with Distinction."
+
+  - degree: "High School Diploma"
+    university: "City High School"
+    years: "2012–2015"
+    description: "Mathematics, Science, Computer Studies."
