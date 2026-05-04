@@ -4,13 +4,10 @@
   "description": "Personal portfolio built with Hugo and Adritian theme",
   "scripts": {
     "start": "hugo server -D",
-    "build": "hugo --minify",
-    "clean": "rm -rf public resources"
+    "build": "hugo --minify"
   },
   "dependencies": {
-    "bootstrap": "^5.3.3"
-  },
-  "devDependencies": {
-    "@zetxek/adritian-theme-helper": "^1.0.0"
+    "bootstrap": "^5.3.3",
+    "bootstrap-print-css": "^1.1.0"
   }
 }
