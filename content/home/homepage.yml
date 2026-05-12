@@ -52,11 +52,11 @@ education:
   enable: true
   title: "Formal Education"
   items:
-    - university: "University of Technology"          # ← EDIT ME
-      year: "2012-2016"
+    - university: "University of Cape Town"          # ← EDIT ME
+      year: "2002-2006"
       degree: "Bachelor of Science, Computer Science"
-    - university: "City High School"                  # ← EDIT ME
-      year: "2009-2012"
+    - university: "Stutterheim High School"                  # ← EDIT ME
+      year: "1992-2001"
       degree: "High School Diploma – Maths, Science, IT"
 
 experience:
