@@ -15,7 +15,7 @@ draft = false
  >}}
 
 {{< platform-links >}}
-    {{< link icon="linkedin" url="https://www.linkedin.com/in/bongani-magwebu/" >}}
+    {{< link icon="linkedin" url="https://www.linkedin.com/in/bonganimagwebu/" >}}
     {{< link icon="square-github" url="https://github.com/bmagwebu" >}}
     {{< link icon="youtube" url="https://www.youtube.com/watch?v=nWHXa1w3SsM" >}}
 
