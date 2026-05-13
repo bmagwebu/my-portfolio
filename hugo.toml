@@ -37,7 +37,7 @@ languageCode = "en"
     target = "static"
   [[module.mounts]]
     source = "static"
-    target = "static"
+    target = "assets"
     
   # ── Bootstrap (npm) ──────────────────────────────────────────
   [[module.mounts]]
