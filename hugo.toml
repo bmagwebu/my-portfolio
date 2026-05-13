@@ -35,7 +35,10 @@ languageCode = "en"
   [[module.mounts]]
     source = "static"
     target = "static"
-
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+    
   # ── Bootstrap (npm) ──────────────────────────────────────────
   [[module.mounts]]
     source = "node_modules/bootstrap/scss"
@@ -176,9 +179,13 @@ languageCode = "en"
         URL    = "/#client-and-work-section"
         weight = 4
       [[languages.en.menus.header]]
+        name   = "Education"
+        URL    = "/education"
+        weight = 5
+            [[languages.en.menus.header]]
         name   = "Blog"
         URL    = "/blog"
-        weight = 5
+        weight = 6
       [[languages.en.menus.header]]
         pre    = "email"
         name   = "Contact"
