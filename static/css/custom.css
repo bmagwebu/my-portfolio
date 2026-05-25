@@ -1,0 +1,6 @@
+/* Center SVG logos in the client-and-work section */
+img.picture-works[data-src$=".svg"] {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
