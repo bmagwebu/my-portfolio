@@ -10,7 +10,7 @@ draft = false
     subtitle="Solution Architect & Technical Lead"
     buttonText="Email"
     description="Seasoned <strong>Solution Architect</strong> with over 22 years of experience in IT business computing. Specialising in enterprise integration, SAP solutions, biometric security, and POS systems across Southern and Eastern Africa."
-    imgSrc="images/showcase/showcase.png"
+    imgSrc="images/showcase/showcase.webp"
     imgScale="0.5"
  >}}
 
