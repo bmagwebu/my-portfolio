@@ -10,7 +10,7 @@
 {{ if $img }}
 
     {{/* SVG cannot be resized — serve directly */}}
-    {{ if eq $img.MediaType.SubType "svg+xml" }}
+    {{ if eq $img.MediaType.Type "image/svg+xml" }}
         <picture class="{{ .pictureclass }}">
             <img
                     class="lozad img-responsive {{ .class }}"
