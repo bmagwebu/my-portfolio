@@ -6,7 +6,7 @@ name: "John Smith"
 position: "Product Manager, Corp Inc."
 params:
   image:
-    src: "images/testimonials/testimonial2.png"
+    src: "images/testimonials/testimonial2.svg"
     scale: 0.5
 ---
 

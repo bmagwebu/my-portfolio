@@ -56,7 +56,7 @@ languageCode = "en"
 [params]
   title       = "Bongani Magwebu – Portfolio"                   # ← EDIT ME
   description = "Personal portfolio of Bongani Magwebu"         # ← EDIT ME
-  images      = ["/images/avatar.png"]
+  images      = ["/images/avatar.svg"]
 
   sections = [
     "showcase",

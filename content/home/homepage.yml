@@ -13,10 +13,10 @@ showcase:
     turning complex problems into elegant solutions.
     Based in South Africa, working globally.   # ← EDIT ME
   image:
-    x: "images/avatar.png"
-    _2x: "images/avatar.png"
+    x: "images/avatar.svg"
+    _2x: "images/avatar.svg"
   imageMobile:
-    x: "images/avatar.png"
+    x: "images/avatar.svg"
   button:
     icon: "icon-mail-fill"
     btnText: "Get In Touch"
@@ -45,8 +45,8 @@ about:
     btnText: "My Skills"
     URL: "/skills"
   image:
-    x: "images/avatar.png"
-    _2x: "images/avatar.png"
+    x: "images/avatar.svg"
+    _2x: "images/avatar.svg"
 
 education:
   enable: true

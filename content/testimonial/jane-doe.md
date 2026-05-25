@@ -6,7 +6,7 @@ name: "Jane Doe"
 position: "CTO, TechStartup Africa"
 params:
   image:
-    src: "images/testimonials/testimonial1.png"
+    src: "images/testimonials/testimonial1.svg"
     scale: 0.5
 ---
 
