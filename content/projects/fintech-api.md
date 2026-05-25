@@ -10,7 +10,7 @@ params:
     btnText: "Innovation Award"
     URL: "https://it-online.co.za/2017/11/08/innovation-kudos-for-sa-partner/"
   image:
-    src: "images/works/work4.jpg"
+    src: "images/works/work4.svg"
     scale: 1
 ---
 

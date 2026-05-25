@@ -10,7 +10,7 @@ params:
     btnText: "Case Study"
     URL: "#"
   image:
-    src: "images/works/work2.jpg"
+    src: "images/works/work2.svg"
     scale: 1
 ---
 
