@@ -9,6 +9,20 @@
 {{ $img := resources.Get .src }}
 {{ if $img }}
 
+    {{/* SVG cannot be resized — serve directly */}}
+    {{ if eq $img.MediaType.SubType "svg+xml" }}
+        <picture class="{{ .pictureclass }}">
+            <img
+                    class="lozad img-responsive {{ .class }}"
+                    data-src="{{ $img.RelPermalink }}"
+                    alt='{{ .alt }}'
+                    src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+                    loading="lazy"
+                    decoding="async"
+            />
+        </picture>
+    {{ else }}
+
     {{- $target1 := "" -}}
     {{- $target2 := "" -}}
 
@@ -68,6 +82,7 @@
                 decoding="async"
         />
     </picture>
+    {{ end }}{{/* end SVG else */}}
 {{ else }}
     {{ warnf "lazypicture.html: Image src was not found: %q" .src }}
 {{ end }}
