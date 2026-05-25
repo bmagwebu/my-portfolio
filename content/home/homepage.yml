@@ -109,10 +109,10 @@ contact:
     message: "Type your message here."
   phone:
     title: "My Phone"
-    number: "+27 000 000 000"                        # ← EDIT ME
+    number: "+27 83 937 5302"                        # ← EDIT ME
   email:
     title: "My Email"
-    email: '<a href="mailto:hello@yourname.dev">hello@yourname.dev</a>'  # ← EDIT ME
+    email: '<a href="mailto:bmagwebu@gmail.com">bmagwebu@gmail.com</a>'  # ← EDIT ME
   address:
     title: "My Location"
     address: "🇿🇦 Johannesburg, South Africa"        # ← EDIT ME
