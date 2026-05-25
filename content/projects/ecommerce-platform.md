@@ -10,7 +10,7 @@ params:
     btnText: "View Project"
     URL: "https://www.cashbuild.co.za"
   image:
-    src: "images/works/work1.svg"
+    src: "images/works/cblogo.svg"
     scale: 1
 ---
 
